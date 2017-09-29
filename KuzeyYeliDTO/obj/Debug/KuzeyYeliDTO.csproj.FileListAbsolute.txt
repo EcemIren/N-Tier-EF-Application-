@@ -1,0 +1,8 @@
+D:\Youtube\kudvenkat\EntityFramework\KuzeyYeli\KuzeyYeliDTO\bin\Debug\KuzeyYeliDTO.dll
+D:\Youtube\kudvenkat\EntityFramework\KuzeyYeli\KuzeyYeliDTO\bin\Debug\KuzeyYeliDTO.pdb
+D:\Youtube\kudvenkat\EntityFramework\KuzeyYeli\KuzeyYeliDTO\obj\Debug\KuzeyYeliDTO.dll
+D:\Youtube\kudvenkat\EntityFramework\KuzeyYeli\KuzeyYeliDTO\obj\Debug\KuzeyYeliDTO.pdb
+D:\github\KuzeyYeli\KuzeyYeliDTO\bin\Debug\KuzeyYeliDTO.dll
+D:\github\KuzeyYeli\KuzeyYeliDTO\bin\Debug\KuzeyYeliDTO.pdb
+D:\github\KuzeyYeli\KuzeyYeliDTO\obj\Debug\KuzeyYeliDTO.dll
+D:\github\KuzeyYeli\KuzeyYeliDTO\obj\Debug\KuzeyYeliDTO.pdb

@@ -1,0 +1,10 @@
+D:\Youtube\kudvenkat\EntityFramework\KuzeyYeli\KuzeyYeli.Extension\bin\Debug\KuzeyYeli.Extension.dll
+D:\Youtube\kudvenkat\EntityFramework\KuzeyYeli\KuzeyYeli.Extension\bin\Debug\KuzeyYeli.Extension.pdb
+D:\Youtube\kudvenkat\EntityFramework\KuzeyYeli\KuzeyYeli.Extension\obj\Debug\KuzeyYeli.Extension.dll
+D:\Youtube\kudvenkat\EntityFramework\KuzeyYeli\KuzeyYeli.Extension\obj\Debug\KuzeyYeli.Extension.pdb
+D:\Youtube\kudvenkat\EntityFramework\KuzeyYeli\KuzeyYeli.Extension\obj\Debug\KuzeyYeli.Extension.csprojResolveAssemblyReference.cache
+D:\github\KuzeyYeli\KuzeyYeli.Extension\bin\Debug\KuzeyYeli.Extension.dll
+D:\github\KuzeyYeli\KuzeyYeli.Extension\bin\Debug\KuzeyYeli.Extension.pdb
+D:\github\KuzeyYeli\KuzeyYeli.Extension\obj\Debug\KuzeyYeli.Extension.dll
+D:\github\KuzeyYeli\KuzeyYeli.Extension\obj\Debug\KuzeyYeli.Extension.pdb
+D:\github\KuzeyYeli\KuzeyYeli.Extension\obj\Debug\KuzeyYeli.Extension.csprojResolveAssemblyReference.cache

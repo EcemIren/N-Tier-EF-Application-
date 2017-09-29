@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0a463668-756d-4ed2-b9a4-76325f9be5eb" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:21708/CategoryService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CategoryService.xsd" MetadataType="Schema" ID="d374ab50-3bf1-4210-939e-3929a7398b54" SourceId="1" SourceUrl="http://localhost:21708/CategoryService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CategoryService1.xsd" MetadataType="Schema" ID="a8e3370a-b3a6-4a7d-9dfe-3f23b53bc702" SourceId="1" SourceUrl="http://localhost:21708/CategoryService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CategoryService.wsdl" MetadataType="Wsdl" ID="b6f7c98f-0d7a-4f0c-8097-6bda348002d6" SourceId="1" SourceUrl="http://localhost:21708/CategoryService.svc?wsdl" />
+    <MetadataFile FileName="CategoryService2.xsd" MetadataType="Schema" ID="c1729301-0b2d-454a-9235-27d2b0918371" SourceId="1" SourceUrl="http://localhost:21708/CategoryService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
